@@ -1,11 +1,9 @@
-<!-- <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=I’m @kyunahn&fontSize=90" /> -->
-
 ### Hello World!
 I’m @kyunahn, a Full-Stack developer
 
 ### <p align="left">Connect with me</p>
 <p align="left" display="inline-block">
-  <a href="mailto:kyunahn.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyunahn.dev@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="mailto:kyunahn.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/kyunahn.dev@gmail.com-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <p>
 
 ### <p align="left">Technology Stack</p>
